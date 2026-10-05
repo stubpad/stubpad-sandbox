@@ -1,0 +1,5 @@
+[artifact]
+name        = "Broken"
+type        = "skill"
+version     = "1.0.0"
+description = "An invalid name"

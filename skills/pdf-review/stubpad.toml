@@ -1,0 +1,4 @@
+[artifact]
+type    = "skill"
+version = "1.0.0"
+tags    = ["legal", "pdf"]

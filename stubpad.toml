@@ -1,0 +1,4 @@
+[repo]
+name        = "stubpad-sandbox"
+description = "Test repository for Stubpad's GitHub sync"
+license     = "MIT"

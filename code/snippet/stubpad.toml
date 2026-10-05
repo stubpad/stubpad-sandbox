@@ -1,0 +1,6 @@
+[artifact]
+name        = "snippet"
+type        = "code"
+version     = "0.1.0"
+description = "A code artifact, reserved in spec 0.1"
+entry       = "snippet.rs"

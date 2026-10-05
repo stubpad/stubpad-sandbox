@@ -1,0 +1,6 @@
+[artifact]
+name        = "crlf-rules"
+type        = "rules"
+version     = "1.0.0"
+description = "A rules file kept with CRLF line endings"
+entry       = "rules.md"
